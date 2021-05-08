@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task_NTPL</string>
+    <string name="channel_name">notify</string>
+    <string name="channel_description">tap notification to open activity</string>
+</resources>
